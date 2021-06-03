@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of Henry the Second: King of England. Shewing what troubles befell in his raigne, concerning the warres betweene him and his subjects, and also the manner how he set up his standerd neere Rudland, Henry of Essex being his generall, and the manner how he left his crowne; necessary to be observed in these dangerous and distracted times of ours.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88136</idno><idno type="EEBO-CITATION">99871343</idno>
+  <idno type="VID">156104</idno>
+  <idno type="EEBO-PROQUEST">2240934521</idno>
+  
+            <idno type="STC">Wing L2030</idno>
+            <idno type="STC">Thomason E118_30</idno>
+            <idno type="STC">ESTC R212771</idno>
+            <idno type="PROQUEST">99871343</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871343e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156104)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of Henry the Second: King of England. Shewing what troubles befell in his raigne, concerning the warres betweene him and his subjects, and also the manner how he set up his standerd neere Rudland, Henry of Essex being his generall, and the manner how he left his crowne; necessary to be observed in these dangerous and distracted times of ours.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for H.B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 23.".</note>
+                  <note>Title page has printer's device (McK. 269).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henry --  II, --  King of England, 1133-1189 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156104:1"/>
+            <p>The Life of HENRY the Second: King of England.</p>
+            <p>Shewing what troubles befell in his Raigne, concerning the warres betweene him and his Subjects, and also the manner how he set up his Standerd neere Rud<g ref="char:EOLhyphen"/>land, <hi>Henry</hi> of Essex being Generall, and the man<g ref="char:EOLhyphen"/>ner how he left his Crowne; necessary to be observed in these dangerous and di<g ref="char:EOLhyphen"/>stracted times of ours.</p>
+            <p>Printed at London for <hi>H. B.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156104:2"/>
+            <pb n="1" facs="tcp:156104:2"/>
+            <head>THE Life of <hi>HENRY</hi> the Second King of England, shewing what trou<g ref="char:EOLhyphen"/>bles befell in his Raign concerning the Warres betweene him and his Subjects, and also the manner how he set up his Standerd neare Rudland, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the yeare of our Lord 1154. <hi>Henry</hi> the second was Crowned, he was a man of a low stature, and fat of body, of a fresh co<g ref="char:EOLhyphen"/>lour, a valiant Souldier, a good Scholler, and of good expression in his speech; very wise, and much delighted with peace.</p>
+            <p>In the second yeare of his Reigne a Counsell was held at Wallingford, where the Nobles were sworne to the King and his Issue, by an oath of Allegiance composed by the King and his Counsell for that purpose, after which <hi>Geffery</hi> the Kings Brother rose in Rebellion, &amp; did much hurt, but was afterwards overcome by the King, and all was yeelded into the Kings hands.</p>
+            <p>In the third yeare of his Reigne the Welchmen rose a<g ref="char:EOLhyphen"/>gainst
+<pb n="2" facs="tcp:156104:3"/> him, and the King raised an Army, and made <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> of Essex his chiefe Generall of the Army; and when the King was come into Wales, <hi>Henry</hi> of Essex by the Com<g ref="char:EOLhyphen"/>mandement of the King raised the Standerd, and open warres was proclaimed, and many from their owne habi<g ref="char:EOLhyphen"/>bations (as also out of diverse prisons) came to assist the King, and there was a great battell fought neere to Rud<g ref="char:EOLhyphen"/>land, where there was many men slaine on both sides, but the King recovered the Castle, and marched towards the Castle of Basingwirk, where there was a great slaughter on the Kings Army, by reason whereof the Army was much discouraged, and <hi>Henry</hi> of Essex, and those under him who had the trust of the bearing of the Standerd, did at that time let the Standerd fall downe to the ground in the battell, which did so exceedingly encourage the Welch men, that they pursued with great eagernesse; the King himselfe was exceedingly dismayed hereat, and fled to save his life, but the two Armies fought daily, for by the helpe of the Earle of Clare it was raised up againe.</p>
+            <p>Now the King had appointed a Navy of Ships also to goe forth against them and <hi>Madoc ap Merideth</hi> was Admi<g ref="char:EOLhyphen"/>rall of the seas, who had spoyled divers Churches, and done much hurt in the Isle of Man, and Anglesey, but af<g ref="char:EOLhyphen"/>ter much bloud-shed they began on both sides to be wea<g ref="char:EOLhyphen"/>ry of War, and there was an agreement and peace conclu<g ref="char:EOLhyphen"/>ded, and on the next Christmas day after King <hi>Henry</hi> be<g ref="char:EOLhyphen"/>ing at Worcester went to Church, and going to prayers with the Congregation tooke his Crowne off his Head, and laid it on the Communion Table, and would never weare it after.</p>
+            <p>In the seventh yeare of his Reigne there being great troubles in Ireland about the Rudiments of Faith, and Ecclesiasticall Rights, the King called a Counsell, and
+<pb n="3" facs="tcp:156104:3"/>
+               <hi>Nicholas</hi> of Willingford, and <hi>William Fitz-Adelme</hi> were sent over into Ireland by the authority and consent of the King and Counsell, at which time was this Confession, or Creed published, viz.</p>
+            <q xml:lang="mne">
+               <p>
+                  <hi>I</hi> Beleeve in God Fadir Almichty spipper of Heaven and Earth, and in Ihesus Christ his oneleihi Son ure Loverd, that is ivange Thurch, the holy Ghost bore of Mary maiden, Tholede pine under Ponce Pilat, picht on rode Tree, dead and is buried, licht into hell, the tridde day from death a<g ref="char:EOLhyphen"/>rose, steich into heaven, sit on his Fadir richt honde God Almichty, then is comminde to deme the quickke and the dede, I beleeve in the holy Ghost, all holy Chirche, mone of alle hallwen, forgivenis of sine, Fleiss uprising, lif withouten end. Amen.</p>
+            </q>
+            <p>The King also caused an Oath of fidelity to be drawne, for his Subjects to sweare to his Son Prince <hi>Henry,</hi> con<g ref="char:EOLhyphen"/>cerning his Inheritance under their fidelity to the King, in case the King should dye before his Son, which Prote<g ref="char:EOLhyphen"/>station was taken through the whole Kingdome.</p>
+            <p>In the 8th. yeare of his Reigne there was a Sect sprang up called Publicans, the chiefe Leader of them was one <hi>Gerard</hi> a good Scholler, but his fellowes were most of them silly and ignorant people.</p>
+            <p>
+               <hi>They denied</hi>
+               <list>
+                  <item>The Rights and Ceremonies of the Church.</item>
+                  <item>Matrimony.</item>
+                  <item>Baptisme.</item>
+                  <item>The Supper of the Lord, &amp;c.</item>
+               </list>
+            </p>
+            <p>These were so stiffe, and stood so stoutly in their opi<g ref="char:EOLhyphen"/>nions, that they would not be convinced of any errour in their tenents, and when <hi>Gerard</hi> the chiefe of them was brought to Oxford, he would not recant from any of his tenents, wherefore judgement was denounced against them.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:156104:4"/>1. <hi>That they should be stigmatized in their foreheads,</hi> 2. <hi>That they should be whipt.</hi> 3. <hi>That they should be turned out of the City,</hi> 4. <hi>That they should not be received into a<g ref="char:EOLhyphen"/>ny Towne.</hi> 5. <hi>That none should give them any releefe.</hi> 6. <hi>That none should afford them any succour.</hi>
+            </p>
+            <p>These men neverthelesse suffered joyfully, singing as they went, <hi>Blessed are ye when men hate you, blessed are yee when men hate you, and so wandred in the fields till with the cold &amp; hunger, they all dyed for no man durst releeve them.</hi>
+            </p>
+            <p>In the 9. year of his raign, <hi>Henry</hi> of Essex was accused of high Treason before the Nobility, and these Articles were exhibited against him.</p>
+            <p n="1">1. <hi>That the said</hi> Henry <hi>of Essex did in the expedition into Wales in narrow, and hard passage (at</hi> Colleshell) <hi>most fraudulently throw away the Kings Standerd.</hi>
+            </p>
+            <p n="2">2. <hi>That hee did with a loud voice pronounce the King to be dead.</hi>
+            </p>
+            <p n="3">3. <hi>That he turned back those that came to relive the Ks. Army against the Welchmen.</hi>
+            </p>
+            <p>These Articles he denied, and after great debate ther<g ref="char:EOLhyphen"/>of before the King and his Counsell the matter was jud<g ref="char:EOLhyphen"/>ged to be tryed by combate, and <hi>Henry</hi> of Essex supposed to be slaine was carried away, but he revived, and spent the rest of his dayes in great humility in Redding.</p>
+            <p>In the 12<seg rend="sup">th</seg> yeare of his Reign the King appointed a collection to be made through all his Countreys, in this manner, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>For every pound in moveable goods being so valued for the first year,</hi> 2d.</p>
+            <p n="2">2. <hi>For four years after for every pound so valued.</hi> 1d.</p>
+            <p n="3">3. <hi>For Arable lands, and for vines, the charge and cost of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em not rekoned, for every pound thereof after the same <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ner also.</hi>
+            </p>
+            <p n="4">
+               <pb n="5" facs="tcp:156104:4"/>4. <hi>He that hath an house valued to be worth</hi> 1. <hi>pound, to pay one penny.</hi>
+            </p>
+            <p n="5">5. <hi>He that hath some office agent, one penny.</hi>
+            </p>
+            <p>After the payment whereof, the King caused his son <hi>Henry</hi> to be crowned, by the perswasions of <hi>Robert</hi> Arch<g ref="char:EOLhyphen"/>bishop of Yorke, thinking it would prove to the great quietnesse of himselfe, and his Realme, but it proved o<g ref="char:EOLhyphen"/>therwise, for the young King received the fealties of the Earles and Barons.</p>
+            <p>
+               <hi>Henry</hi> the younger rebelled against his Father, and ma<g ref="char:EOLhyphen"/>ny Earles and Barons fled over to him, and many great and bloody battels were fought between them, but at the last the olde King subdued this Rebellion, and fin<g ref="char:EOLhyphen"/>ding that the Scots had joyned against him, gave to ma<g ref="char:EOLhyphen"/>ny of the young Nobilitie, whom hee had found to bee loyall unto him, the most part of the land in Scotland, &amp; imprisoned and fined many of the English for this Re<g ref="char:EOLhyphen"/>bellion.</p>
+            <p>In the 21. year of his Reign, a brother of the Earle of Ferres was slain in the City of London; wherat the King was much displeased, and vowed revenge against the Ci<g ref="char:EOLhyphen"/>tie; And there were great troubles between the Court &amp; the City, insomuch that the Citie was distracted and dis<g ref="char:EOLhyphen"/>quie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed within it selfe, for in the end there were many unruly Citizens who did give themselves to the pillaging and robbing of rich mens houses, of whom one <hi>Andrew Buckequint</hi> and <hi>Iohn Ould</hi> were chief, but the grave wise<g ref="char:EOLhyphen"/>dome of the King soone suppressed them, and there was peace between the young King and the old, and the Fa<g ref="char:EOLhyphen"/>ther and the son did eat and drinke at one table, and all was ended in peace, and shortly after the disobedient son was cut off, and the old King Reigned quietly alone.</p>
+            <p>Then the King called a Convocation of the Clergy at
+<pb n="6" facs="tcp:156104:5"/> London, and the Popes Legat sate in the chare, and next to him the Arch-Bishop of Canterbury on his right hand as Primate of <hi>England;</hi> but when the Arch-Bishop of Yorke saw that hee must sit on the left hand of the Popes Legat hee disdained the place, and did strive to crowd his arse between them, but because the Legat was not to remoue, nor the Arch-bishop would not remove, therefore the most unmannerly swopt him down on the Archbishop of Canterburies lap, for which he was throw downe to the ground, and after his complaint made to the King; of whom be thought to have found reliefe but was deceived, he was well laught at for his remedy.</p>
+            <p>In the 25 year of his Reign, there was againe a rebel<g ref="char:EOLhyphen"/>lion after great taxes laid upon the Subjects for the voy<g ref="char:EOLhyphen"/>age to Ierusalem, whereat the Kings Majestie was so per<g ref="char:EOLhyphen"/>plexed and troubled, that he cursed the day wherein hee was borne, and none about him, neither Clergy nor No<g ref="char:EOLhyphen"/>bles could comfort him, through the extreamity wherof he was brought to a grievous sicknesse, after he had reig<g ref="char:EOLhyphen"/>ned 34 yeares, being above 60. years of age, and lea<g ref="char:EOLhyphen"/>ving in his treasury above 100000 markes he died.</p>
+            <p>When this royall King was carried forth to be buried, he was first aparralled in his Princely robes, &amp; his crowne upon his head, and rich gloves on his hands, and bootes on his legs, wrought with gold spurs on his heels, a ring of gold on his finget, a Scepter in his hand, and a sword by his side, and lying thus like a Prince in State, though a dead corpes, he was uncovered, and looking upon him, under his robes, he looked with a most sweete and plea<g ref="char:EOLhyphen"/>sant countenance, as if he had only slept, who was again covered, &amp; as he deserved most honourably buried.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
